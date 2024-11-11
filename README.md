@@ -1,3 +1,3 @@
 # React + Vite
 
-Frontend Ecommerce Website using React JS and Tailwind CSS
+Frontend E-commerce Website using React JS and Tailwind CSS
